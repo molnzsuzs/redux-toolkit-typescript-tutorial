@@ -1,3 +1,11 @@
+
+https://redux-toolkit.js.org/tutorials/quick-start  
+https://redux-toolkit.js.org/tutorials/typescript
+
+As of React Redux v7.2.3, the react-redux package has a dependency on @types/react-redux, so the type definitions will be automatically installed with the library. Otherwise, you'll need to manually install them yourself (typically npm install @types/react-redux ).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
